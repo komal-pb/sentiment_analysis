@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment / dependency files
+.env
+venv/
+.env.*
+
+# Data
+airline_data/
+*.pkl
+
+# IDE / editor files
+.vscode/
+.DS_Store
