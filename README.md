@@ -45,6 +45,10 @@ A web application that predicts the sentiment of airline-related text (tweets, r
 
 <img width="1905" height="998" alt="image" src="https://github.com/user-attachments/assets/03b43987-14f2-49af-81b7-e8d94a7337bd" />
 
+<img width="1919" height="999" alt="image" src="https://github.com/user-attachments/assets/060102d3-2057-4741-bce8-8c89e9b971df" />
+
+<img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/ec4cb105-25a9-4857-9e9c-30e8bdf15cdb" />
+
 ---
 
 ## Future Improvements
@@ -52,3 +56,8 @@ A web application that predicts the sentiment of airline-related text (tweets, r
 - Integrate with live Twitter API to analyze tweets in real-time
 - Add more ML models (Random Forest, SVM) for better prediction
 - Improve frontend UI with charts and visualizations
+
+---
+
+## Live Demo 
+[Click Here](https://sentiment-analysis-p8id.onrender.com/)
