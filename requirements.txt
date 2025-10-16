@@ -3,3 +3,4 @@ scikit-learn
 nltk
 groq
 python-dotenv
+streamlit
