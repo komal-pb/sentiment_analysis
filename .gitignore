@@ -10,7 +10,6 @@ venv/
 
 # Data
 airline_data/
-*.pkl
 
 # IDE / editor files
 .vscode/
